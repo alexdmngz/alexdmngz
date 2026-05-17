@@ -1,16 +1,24 @@
-## Hi there 👋
+# [Alejandro Domínguez]
 
-<!--
-**alexdmngz/alexdmngz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 My Profile
+Student of Economics, Mathematics and Data Science @ Universidad Complutense de Madrid, specialized on the application of computing and mathematical algorithms to financial markets. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Main Areas 
+* **Financial modeling:** Time series analysis, econometric models, quantitative risk assessment.
+* **Applied algorithms:** Development, optimization of algorithms for financial data analysis and trading strategies.
+* **Data science:** Data processing, statistical analysis, machine learning for market prediction.
+
+---
+
+## 💻 Skills
+* **Programming languages:** Python, R, SQL.
+* **Libraries and frameworks:** Pandas, NumPy, SciPy, Scikit-Learn.
+* **Analytical knowledge:** Stochastic calculus, linear algebra, statistical inference, and game theory.
+
+---
+
+## 💼 Contact
+* **LinkedIn:** www.linkedin.com/in/alejandro-dominguez-lopez-
+* **Email:** alejandro.dominguez.business@gmail.com
