@@ -1,4 +1,4 @@
-# [Alejandro Domínguez]
+# Alejandro Domínguez
 
 ## 🎓 My Profile
 Student of Economics, Mathematics and Data Science @ Universidad Complutense de Madrid, specialized on the application of computing and mathematical algorithms to financial markets. 
