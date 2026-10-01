@@ -20,5 +20,5 @@ Student of Economics, Mathematics and Data Science at Universidad Complutense de
 ---
 
 ## Contact
-* **LinkedIn:** www.linkedin.com/in/alejandro-dominguez-lopez-
+* **LinkedIn:** https://www.linkedin.com/in/alejandro-domínguez-lópez-206995416
 * **Email:** alejandro.dominguez.business@gmail.com
