@@ -1,6 +1,6 @@
 ![Alejandro Domínguez — Economics, Mathematics and Data Science](assets/header.svg)
 
-[Projects](#projects) · [LinkedIn](https://www.linkedin.com/in/alejandro-domínguez-lópez-206995416) · [Email](mailto:alejandro.dominguez.business@gmail.com)
+[Projects](#projects) · [LinkedIn](https://www.linkedin.com/in/alejandro-domínguez-lópez) · [Email](mailto:alejandro.dominguez.business@gmail.com)
 
 I'm studying **Economics, Mathematics and Data Science at Universidad Complutense de Madrid**. My interests are increasingly centred on AI, particularly language models, information retrieval and the mathematics behind them.
 
