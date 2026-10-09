@@ -1,13 +1,8 @@
-<picture>
-  <img src="assets/header.svg" alt="Alejandro Domínguez — Artificial intelligence and applied mathematics" width="100%" />
-</picture>
+# Alejandro Domínguez
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-domínguez-lópez-206995416">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:alejandro.dominguez.business@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="#projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#toolkit">Toolkit</a>
-</p>
+Building and evaluating AI systems.
+
+[Projects](#projects) · [LinkedIn](https://www.linkedin.com/in/alejandro-domínguez-lópez-206995416) · [Email](mailto:alejandro.dominguez.business@gmail.com)
 
 I'm studying **Economics, Mathematics and Data Science at Universidad Complutense de Madrid**. My main interests are artificial intelligence, information retrieval and the mathematical ideas behind them.
 
